@@ -1,4 +1,4 @@
-# How to add to to the project
+# How to add to the project
 
 The simplest form of contribution would be just adding another clip to [collection.md](collection.md) in the appropriate section using this format:  
 ```* [clip name](clyp.it link)```  
