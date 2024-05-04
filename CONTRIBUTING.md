@@ -1,4 +1,4 @@
-# How to contribute to the project
+# How to add to to the project
 
 The simplest form of contribution would be just adding another clip to [collection.md](collection.md) in the appropriate section using this format:  
 ```* [clip name](clyp.it link)```  
@@ -11,3 +11,6 @@ Basically, try to live by the philosophy of making the resource functional, up-t
 
 Note: [original.md](orignal.md) is intended to be a copy of the original Reddit post and is not to be modified. [collection.md](collection.md) is the one that may be changed and updated.
 
+# Issues
+
+No restrictions are in place regarding issues at the moment, provided that they are relevant and don't violate the core philosophy of this project.
