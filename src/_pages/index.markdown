@@ -299,4 +299,4 @@ Useful clips that don't quite fit into any other category.
 
 ***
 
-For suggestions, requests, and the like, see the [GitHub repository](https://github.com/CosMarm/selene-archive/).
+For suggestions, requests, and the like, see the [GitHub repository](https://github.com/selenearchive/selenearchive.github.io/).
