@@ -1,6 +1,6 @@
 # How to add to the project
 
-The simplest form of contribution would be just adding another clip to [collection.md](collection.md) in the appropriate section using this format:  
+The simplest form of contribution would be just adding another clip to [index.markdown](src/_pages/index.markdown) in the appropriate section using this format:  
 ```* [clip name](clyp.it link)```  
 where you basically just place another hyperlinked bullet point under (or between) the rest. This is pretty easy, and all you need to do is make sure there's no dupes and that the clips align's with Selene's to-date teaching standards (which is why many of her older clips aren't here; they feature techniques she no longer approves of).
 
@@ -8,8 +8,6 @@ The other thing you can do is mess around with the arrangement of the clips (as 
 
 
 Basically, try to live by the philosophy of making the resource functional, up-to-date, and friendly both to beginners and advanced learners. When in doubt, talk to the smart folks over on [Online Vocal Coach](https://discord.gg/acjy4Cw9z3). 
-
-Note: [original.md](orignal.md) is intended to be a copy of the original Reddit post and is not to be modified. [collection.md](collection.md) is the one that may be changed and updated.
 
 # Issues
 
