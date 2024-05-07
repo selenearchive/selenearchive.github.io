@@ -1,0 +1,72 @@
+@mixin large {
+    @media screen and (min-width: #{64em}) {
+        @content;
+    }
+}
+
+@mixin medium {
+    @media screen and (min-width: #{42em}) and (max-width: #{64em}) {
+        @content;
+    }
+}
+
+@mixin small {
+    @media screen and (max-width: #{42em}) {
+        @content;
+    }
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    background: $body-bg-color;
+    color: $body-text-color;
+}
+
+a {
+    color: $body-link-color;
+    text-decoration: none;
+
+    &:hover {
+        color: $body-hover-color;
+    }
+}
+
+.page-content {
+    word-break: break-word;
+
+    @include large {
+        margin: 0 auto;
+        max-width: 54rem;
+        padding: 2rem 6rem;
+        font-size: 1.1rem;
+    }
+    @include medium {
+        padding: 2rem 4rem;
+        font-size: 1.1rem;
+    }
+    @include small {
+        padding: 2rem 1rem;
+        font-size: 1rem;
+    }
+}
+
+.page-footer {
+    text-align: center;
+    font-weight: bold;
+    margin: 1rem;
+
+    @include large {
+        font-size: 1rem;
+    }
+
+    @include medium {
+        font-size: 1rem;
+    }
+
+    @include small {
+        font-size: 0.9rem;
+    }
+}

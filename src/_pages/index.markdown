@@ -1,5 +1,7 @@
 ---
 permalink: /
+layout: default
+title: Selene Archive
 ---
 
 # An organized collection of Selene Da Silva's clips
