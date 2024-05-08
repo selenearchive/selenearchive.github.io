@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+  </head>
+
+  <body>
+    <main id="content" class="page-content" role="main">
+      {{ content }}
+    </main>
+
+    <footer class="page-footer">
+      <span>
+        For suggestions, requests, and the like, see the <a href="{{ site.github.repository_url }}">GitHub repository</a>.
+      </span>
+    </footer>
+  </body>
+</html>

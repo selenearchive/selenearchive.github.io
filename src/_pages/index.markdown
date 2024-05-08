@@ -1,5 +1,7 @@
 ---
 permalink: /
+layout: default
+title: Selene Archive
 ---
 
 # An organized collection of Selene Da Silva's clips
@@ -297,6 +299,3 @@ Useful clips that don't quite fit into any other category.
 * [rico nasty "Yeah"](https://clyp.it/krq1o2u1)
 * [overtone singing](https://clyp.it/qwqczu5z)
 
-***
-
-For suggestions, requests, and the like, see the [GitHub repository](https://github.com/selenearchive/selenearchive.github.io/).
