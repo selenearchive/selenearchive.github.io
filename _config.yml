@@ -54,7 +54,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-source: src
 destination: .tmp
 include:
   - _pages
