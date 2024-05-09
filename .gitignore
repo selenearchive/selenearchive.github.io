@@ -1,4 +1,4 @@
-.tmp
+_site
 .bundle
 vendor
 **/.sass-cache

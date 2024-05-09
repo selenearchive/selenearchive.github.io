@@ -4,9 +4,6 @@ title: Selene Archive
 # Disable automatic theming
 theme: null
 
-# Output directory for Jekyll site generation
-destination: .tmp
-
 # Additional subdirectories to include
 include:
   - _pages
