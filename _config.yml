@@ -4,9 +4,12 @@ title: Selene Archive
 # Disable automatic theming
 theme: null
 
+collections:
+  topics:
+    output: true
+    permalink: /:collection/:name
+
 # Additional subdirectories to include
-include:
-  - _pages
 defaults:
   -
     scope:
