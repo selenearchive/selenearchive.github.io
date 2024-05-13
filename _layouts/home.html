@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{{ content }}
+<p>
+  <ul>
+  {% for topic in site.topics %}
+  <li><a href="{{ topic.url }}"> {{ topic.title }}</a></li>
+  {% endfor %}
+  </ul>
+</p>
