@@ -8,13 +8,3 @@ collections:
   topics:
     output: true
     permalink: /:collection/:name
-
-# Additional subdirectories to include
-defaults:
-  -
-    scope:
-      type: pages
-      path: _pages
-    values:
-      is_post: false
-      layout: default
