@@ -42,8 +42,7 @@ a {
     text-align: center;
     font-weight: bold;
     margin: 1rem;
-
-    @include mobile {
-        font-size: 0.8rem;
-    }
+    border-top: solid 2px;
+    border-color: $border-color;
+    font-size: small;
 }
