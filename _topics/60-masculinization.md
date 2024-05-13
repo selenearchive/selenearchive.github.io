@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: topic
 title: Masculinization
 ---
-
-# **Masculinization**
 
 Lectures and explorations specifically focusing on masculinization.
 

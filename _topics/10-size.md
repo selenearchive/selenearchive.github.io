@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: topic
 title: Size
 ---
-
-# **Size**
 
 Ear training and general explorations for vocal size.
 

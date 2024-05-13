@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: topic
 title: Other
 ---
-
-# **Other**
 
 Useful clips that don't quite fit into any other category.
 
