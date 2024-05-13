@@ -1,28 +1,32 @@
-@mixin large {
-    @media screen and (min-width: #{64em}) {
+@mixin desktop {
+    @media screen and (min-width: #{35em}) {
         @content;
     }
 }
 
-@mixin medium {
-    @media screen and (min-width: #{42em}) and (max-width: #{64em}) {
-        @content;
-    }
-}
-
-@mixin small {
-    @media screen and (max-width: #{42em}) {
+@mixin mobile {
+    @media screen and (max-width: #{35em}) {
         @content;
     }
 }
 
 body {
-    padding: 0;
-    margin: 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 0 auto;
+    line-height: 1.5;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     background: $body-bg-color;
     color: $body-text-color;
+
+    @include desktop {
+        max-width: 48em;
+        font-size: 1.1rem;
+    }
+    @include mobile {
+        font-size: 0.9rem;
+    }
 }
 
 a {
@@ -34,39 +38,11 @@ a {
     }
 }
 
-.page-content {
-    word-break: break-word;
-
-    @include large {
-        margin: 0 auto;
-        max-width: 54rem;
-        padding: 2rem 6rem;
-        font-size: 1.1rem;
-    }
-    @include medium {
-        padding: 2rem 4rem;
-        font-size: 1.1rem;
-    }
-    @include small {
-        padding: 2rem 1rem;
-        font-size: 1rem;
-    }
-}
-
 .page-footer {
     text-align: center;
     font-weight: bold;
     margin: 1rem;
-
-    @include large {
-        font-size: 1rem;
-    }
-
-    @include medium {
-        font-size: 1rem;
-    }
-
-    @include small {
-        font-size: 0.9rem;
-    }
+    border-top: solid 2px;
+    border-color: $border-color;
+    font-size: small;
 }
