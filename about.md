@@ -17,8 +17,4 @@ If you're new to this model of voice, it's a great idea to read [this Reddit com
 
 **You can find the TVL YouTube channel [here](https://www.youtube.com/transvoicelessons), and you can find Selene and Clover's server [here](https://discord.gg/acjy4Cw9z3).**
 
-***
-
 Remember that you're not actually supposed to listen to every single clip in this post. Aside from the essentials below, you're completely free in regards to the clips you choose. Go at your own pace and don't feel like you have to rush things or understand all the material immediately. 
-
-***
