@@ -19,6 +19,9 @@ body {
     padding-left: 1em;
     padding-right: 1em;
     margin: 0 auto;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 
     @include desktop {
         font-size: 1.1rem;
@@ -57,7 +60,7 @@ footer {
     font-size: small;
     font-weight: bold;
     text-align: center;
-    margin: 1rem;
+    margin: 0.5em;
     border-top: solid 2px;
     border-color: $border-color;
 }
