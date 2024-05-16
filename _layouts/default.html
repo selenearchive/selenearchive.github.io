@@ -3,11 +3,15 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }} | {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
   </head>
 
   <body>
+    <nav>
+      <a href="/">Home</a>  
+      <a href="/about">About</a>  
+    </nav>
     <main id="content" role="main">
       {{ content }}
     </main>
