@@ -10,7 +10,7 @@ This is the open-source "fork", sort of, to [the original Reddit post](https://r
 
 # Background info
 
-**The perceptual model (also known as the size/weight model or the Gestalt Voice Model) was developed by [Clover Grigsby](https://www.clovergrigsby.com/) and [Zheanna Erose](https://linktr.ee/zheanna), who are part of [TransVoiceLessons](https://www.transvoicelessons.com/).**  
-**[Selene Da Silva](https://clyp.it/user/tgqiml4a) is the founder of [Vox Nova](https://voxnovastudio.com/), and works alongside Clover and Zheanna as an instructor for TVL's group courses.**
+The perceptual model (also known as the size/weight model or the Gestalt Voice Model) was developed by [Clover Grigsby](https://www.clovergrigsby.com/) and [Zheanna Erose](https://linktr.ee/zheanna), who are part of [TransVoiceLessons](https://www.transvoicelessons.com/).   
+[Selene Da Silva](https://clyp.it/user/tgqiml4a) is the founder of [Vox Nova](https://voxnovastudio.com/), and works alongside Clover and Zheanna as an instructor for TVL's group courses.
 
-**You can find the TVL YouTube channel [here](https://www.youtube.com/transvoicelessons), and you can find Selene and Clover's server [here](https://discord.gg/acjy4Cw9z3).**
+You can find the TVL YouTube channel [here](https://www.youtube.com/transvoicelessons), and you can find Selene and Clover's server [here](https://discord.gg/acjy4Cw9z3).
