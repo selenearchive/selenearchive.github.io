@@ -17,3 +17,4 @@ function checkHashChanged() {
 }
 
 window.addEventListener("hashchange", checkHashChanged, false);
+window.addEventListener("load", checkHashChanged, false);
