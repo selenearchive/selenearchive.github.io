@@ -3,53 +3,61 @@ layout: topic
 title: Weight
 ---
 
+<small>[YouTube Playlist](https://www.youtube.com/watch?v=XWusipz8gJE&list=PLD2KCiQf0hA3NZn_iveFDoOMs2hNvdRIg&pp=iAQB)</small>
+
 Vocal weight is separate from pitch, and it can be thought of as a spectrum of roughness and softness. Loudness is also correlated with weight, but it's possible (and quite useful) to be loud yet light (or low yet heavy).
 
-* [weight](https://clyp.it/nwreza0c)
-* [weight monika](https://clyp.it/jxbetfwf)
-* [heavy to light](https://clyp.it/ydistdix)
-* [light weight low pitch](https://clyp.it/q40drixj)
-* [increasing weight with a static pitch](https://clyp.it/1xsaw5bc)
-* [pitch slide weight exploration](https://clyp.it/1ytjkdh4)
-* [aww into sustain](https://clyp.it/lp1kntwf)
-* [candle blowing](https://clyp.it/euexpb3g)
-* [faenomenal weight explorations](https://clyp.it/hajxbnuu)
-* [falsetto start](https://clyp.it/o5uzqgev)
-* [light airflow /s/ light weight](https://clyp.it/qz3tmavr)
-* [light weight but not whispery](https://clyp.it/zvsbuckp)
-* [gradient from falsetto -> modal with weight](https://clyp.it/usjrj4yq)
-* [ascending in pitch with heavier weight?](https://clyp.it/nqj02aqc)
-* [B3 light weight exploration](https://clyp.it/5yfxii21)
-* [ugne b3 practice](https://clyp.it/ntr2l0bs)
-* [Oni Weight lesson 6/2](https://clyp.it/yxfhtdej)
+<ul>
+    {% include clip.html name="weight" clyp_id="nwreza0c" %}
+    {% include clip.html name="weight monika" clyp_id="jxbetfwf" %}
+    {% include clip.html name="heavy to light" clyp_id="ydistdix" %}
+    {% include clip.html name="light weight low pitch" clyp_id="q40drixj" %}
+    {% include clip.html name="increasing weight with a static pitch" clyp_id="1xsaw5bc" %}
+    {% include clip.html name="pitch slide weight exploration" clyp_id="1ytjkdh4" %}
+    {% include clip.html name="aww into sustain" clyp_id="lp1kntwf" %}
+    {% include clip.html name="candle blowing" clyp_id="euexpb3g" %}
+    {% include clip.html name="faenomenal weight explorations" clyp_id="hajxbnuu" %}
+    {% include clip.html name="falsetto start" clyp_id="o5uzqgev" %}
+    {% include clip.html name="light airflow /s/ light weight" clyp_id="qz3tmavr" %}
+    {% include clip.html name="light weight but not whispery" clyp_id="zvsbuckp" %}
+    {% include clip.html name="gradient from falsetto -> modal with weight" clyp_id="usjrj4yq" %}
+    {% include clip.html name="ascending in pitch with heavier weight?" clyp_id="nqj02aqc" %}
+    {% include clip.html name="B3 light weight exploration" clyp_id="5yfxii21" %}
+    {% include clip.html name="ugne b3 practice" clyp_id="ntr2l0bs" %}
+    {% include clip.html name="Oni Weight lesson 6/2" clyp_id="yxfhtdej" %}
+</ul>
 
 These clips can help if your voice is "breaking" or if you can't access higher pitches with ease. Also see SOVTEs under the **Other** heading.
 
-* [abducted vs adducted falsetto](https://clyp.it/nkc5wlfz)
-* [abducted vs adducted falsetto impact on size](https://clyp.it/srsgwvh0)
-* [Adduction explorations](https://clyp.it/5ykiunl0)
-* [aDducted vs aBducted falsetto](https://clyp.it/4tv0kj3a)
-* [Addressing yodels/breaks/bifurcation events](https://clyp.it/kpa4k0az)
-* [Assessing yodel range](https://clyp.it/nyzokxew)
-* [Strategies to address yodel/break/bifurcation](https://clyp.it/02i5uuwb)
-* [aBducted low shit](https://clyp.it/1ym4c20a)
-* [adducted falsetto](https://clyp.it/0kmxs5rk)
-* [adducted vs aBducted falsetto](https://clyp.it/ndrqqrjt)
-* ["m2" two ways](https://clyp.it/ita3bu1r)
-* [connected F4 practice](https://clyp.it/je1l50pr)
-* [abduction and rasp](https://clyp.it/ocwte0dm)
-* [induce yodel from above](https://clyp.it/hh5jrrho)
+<ul>
+    {% include clip.html name="abducted vs adducted falsetto" clyp_id="nkc5wlfz" %}
+    {% include clip.html name="abducted vs adducted falsetto impact on size" clyp_id="srsgwvh0" %}
+    {% include clip.html name="Adduction explorations" clyp_id="5ykiunl0" %}
+    {% include clip.html name="aDducted vs aBducted falsetto" clyp_id="4tv0kj3a" %}
+    {% include clip.html name="Addressing yodels/breaks/bifurcation events" clyp_id="kpa4k0az" %}
+    {% include clip.html name="Assessing yodel range" clyp_id="nyzokxew" %}
+    {% include clip.html name="Strategies to address yodel/break/bifurcation" clyp_id="02i5uuwb" %}
+    {% include clip.html name="aBducted low shit" clyp_id="1ym4c20a" %}
+    {% include clip.html name="adducted falsetto" clyp_id="0kmxs5rk" %}
+    {% include clip.html name="adducted vs aBducted falsetto" clyp_id="ndrqqrjt" %}
+    {% include clip.html name="\"m2\" two ways" clyp_id="ita3bu1r" %}
+    {% include clip.html name="connected F4 practice" clyp_id="je1l50pr" %}
+    {% include clip.html name="abduction and rasp" clyp_id="ocwte0dm" %}
+    {% include clip.html name="induce yodel from above" clyp_id="hh5jrrho" %}
+</ul>
 
 Clips on volume and pitch: 
 
-* [yelling!](https://clyp.it/h4novmjf)
-* [schwiftyyyy loudness stuff](https://clyp.it/k5wplp3q)
-* [loudness exploration](https://clyp.it/s4l3hbhu)
-* [different pitch targets for yelling](https://clyp.it/tel3ppow)
-* [symphonic yelling](https://clyp.it/rebwh0tm)
-* [various average speaking pitches](https://clyp.it/wtj5qtlu)
-* [pitch exploration](https://clyp.it/pqzazlbq)
-* [nose pinch two octave scales](https://clyp.it/cdmv1nb3)
-* [How to achieve low pitch femme voice](https://clyp.it/ws020ql3)
-* [developing low pitch femme voice](https://clyp.it/3fyu1uzc)
-* [targeting druew voice](https://clyp.it/vggki05c)
+<ul>
+    {% include clip.html name="yelling!" clyp_id="h4novmjf" %}
+    {% include clip.html name="schwiftyyyy loudness stuff" clyp_id="k5wplp3q" %}
+    {% include clip.html name="loudness exploration" clyp_id="s4l3hbhu" %}
+    {% include clip.html name="different pitch targets for yelling" clyp_id="tel3ppow" %}
+    {% include clip.html name="symphonic yelling" clyp_id="rebwh0tm" %}
+    {% include clip.html name="various average speaking pitches" clyp_id="wtj5qtlu" %}
+    {% include clip.html name="pitch exploration" clyp_id="pqzazlbq" %}
+    {% include clip.html name="nose pinch two octave scales" clyp_id="cdmv1nb3" %}
+    {% include clip.html name="How to achieve low pitch femme voice" clyp_id="ws020ql3" %}
+    {% include clip.html name="developing low pitch femme voice" clyp_id="3fyu1uzc" %}
+    {% include clip.html name="targeting druew voice" clyp_id="vggki05c" %}
+</ul>

@@ -1,0 +1,14 @@
+details {
+    border: 1px solid $body-text-color;
+    color: $body-text-color;
+    background-color: gainsboro;
+
+    border-radius: 5px;
+    padding: .5em 1em;
+
+    margin-bottom: .5em;
+}
+
+summary {
+    font-weight: bold;
+}
