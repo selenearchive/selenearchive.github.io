@@ -2,16 +2,14 @@
 layout: default
 ---
 
-{% include player.html %}
-
 {{ content }}
 
 {% for topic in site.topics %}
 <details class="topic" id="{{topic.title}}">
-  
   <summary>{{ topic.title }}</summary>
   {{ topic.content }}
 </details>
 {% endfor %}
 
+{% include player.html %}
 <script src="{{ "/assets/js/home.js" | relative_url }}"></script>
