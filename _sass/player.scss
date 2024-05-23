@@ -1,0 +1,25 @@
+#player {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#player-embed-container iframe {
+    margin-bottom: -10px;
+}
+
+#player-controls {
+    text-align: right;
+    padding: .5em;
+
+    button {
+        width: 36px;
+        height: 36px;
+    }
+}
+
+.player-hidden {
+    display: none;
+}

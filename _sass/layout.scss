@@ -19,6 +19,7 @@ body {
     padding-left: 1em;
     padding-right: 1em;
     margin: 0 auto;
+    margin-bottom: 270px;
     min-height: 100vh;
     display: grid;
     grid-template-rows: auto 1fr auto;
@@ -61,6 +62,7 @@ footer {
     font-weight: bold;
     text-align: center;
     margin: 0.5em 0;
+    padding: 0.5em 0;
     border-top: solid 2px;
     border-color: $border-color;
 }
