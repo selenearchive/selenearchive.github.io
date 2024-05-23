@@ -1,13 +1,14 @@
-function setClip(idClyp) {
-    const embedContainer = document.getElementById("player-embed-container");
-    embedContainer.innerHTML = '<iframe width="100%" height="265" src="https://clyp.it/' + idClyp + '/widget" frameborder="0"></iframe>';
-    
-    document.getElementById("player").classList.remove("player-hidden");
+const embedContainer = document.getElementById("player-embed-container");
+const player = document.getElementById("player");
 
-    // Return false to block browser behaviour.
+function setClip(clypId) {
+    embedContainer.innerHTML = '<iframe width="100%" height="265" src="https://clyp.it/' + clypId + '/widget" frameborder="0"></iframe>';
+    player.classList.remove("player-hidden");
+
     return false;
 }
 
-function closePlayer() {    
-    document.getElementById("player").classList.add("player-hidden");
+function closePlayer() {
+    embedContainer.innerHTML = "";    
+    player.classList.add("player-hidden");
 }
