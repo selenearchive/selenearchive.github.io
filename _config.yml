@@ -6,5 +6,5 @@ theme: null
 
 collections:
   topics:
-    output: true
-    permalink: /:collection/:name
+    output: false
+    # permalink: /:collection/:name
