@@ -32,8 +32,8 @@ function closePlayer() {
     player.classList.add("player-hidden");
 }
 
-window.addEventListener("hashchange", checkHashChanged, false);
-window.addEventListener("load", checkHashChanged, false);
+window.addEventListener("hashchange", checkHashChanged);
+window.addEventListener("load", checkHashChanged);
 playerCloseBtn.addEventListener("click", closePlayer);
 
 for (const link of document.getElementsByTagName("a")) {
