@@ -1,8 +1,3 @@
-const embedContainer = document.getElementById("player-embed-container");
-const player = document.getElementById("player");
-const playerCloseBtn = document.getElementById("player-closebtn")
-const host = "clyp.it"
-
 function checkHashChanged() {
     let foundElement = null;
 
@@ -21,25 +16,20 @@ function checkHashChanged() {
     }
 }
 
-function setClip(event, id) {
-    embedContainer.innerHTML = '<iframe width="100%" height="265" src="https://clyp.it/' + id + '/widget" frameborder="0"></iframe>';
-    player.classList.remove("player-hidden");
-    event.preventDefault();
-}
-
-function closePlayer() {
-    embedContainer.innerHTML = "";    
-    player.classList.add("player-hidden");
-}
-
 window.addEventListener("hashchange", checkHashChanged);
 window.addEventListener("load", checkHashChanged);
-playerCloseBtn.addEventListener("click", closePlayer);
 
-for (const link of document.getElementsByTagName("a")) {
-    if (link.host === host) {
-        let id = link.pathname.replace('/', '');
-        link.addEventListener("click", (event) => {setClip(event, id)});
+const blockquotes = Array.prototype.slice.call(document.getElementsByTagName("blockquote"));
+
+for (let blockquote of blockquotes) {
+    const p = blockquote.getElementsByTagName("p")[0];
+    const match = p.innerHTML.match(/\[!(?<type>.+)\]/)
+
+    if (match) {
+        const alert = document.createElement("div");
+        alert.classList.add("alert", "alert-" + match.groups.type.toLowerCase());
+        alert.innerHTML = blockquote.innerHTML.replace(match[0], "").trim();
+
+        blockquote.parentElement.replaceChild(alert, blockquote);
     }
 }
-
