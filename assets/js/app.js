@@ -1,5 +1,6 @@
 const embedContainer = document.getElementById("player-embed-container");
 const player = document.getElementById("player");
+const playerCloseBtn = document.getElementById("player-closebtn")
 
 function checkHashChanged() {
     let foundElement = null;
@@ -33,4 +34,5 @@ function closePlayer() {
 
 window.addEventListener("hashchange", checkHashChanged, false);
 window.addEventListener("load", checkHashChanged, false);
+playerCloseBtn.addEventListener("click", closePlayer)
 
