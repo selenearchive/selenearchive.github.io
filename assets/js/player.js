@@ -24,7 +24,5 @@ for (const link of document.getElementsByTagName("a")) {
         let id = link.pathname.replace('/', '');
         link.addEventListener("click", (event) => {setClip(event, id)});
         link.classList.add('clip');
-
-        link.innerHTML = "<button>" + link.innerHTML + "</button>"
     }
 }

@@ -1,47 +1,57 @@
-.alert {
+pre:has(> code[class*="alert"]) {
+    display: none;
+    display: none;
+}
+
+blockquote:has(> pre > code[class*="alert"]) {
+    display: inline-block;
+
     border-width: 1px;
     border-style: solid;
     border-radius: 5px;
 
     padding: 0em 1em;
-    margin: 1em 0;
+    margin: .75em 0;
+
+    font-family: inherit;
+    font-size: inherit;
 }
 
-.alert::before {
+blockquote:has(> pre > code[class*="alert"])::before {
     display: block;
     font-weight: bolder;
-    margin-bottom: -.75em;
-    margin-top: .9em;
+    margin-bottom: -.5em;
+    margin-top: .75em;
 
     font-size: .9em;
 }
 
-.alert-warning {
+blockquote:has(> pre > code[class*="alert-warning"]) {
     background-color: #fff3cd;
     border-color: #856404;
     color: #856404;
 }
 
-.alert-warning::before {
+blockquote:has(> pre > code[class*="alert-warning"])::before {
     content: "⚠ WARNING"
 }
 
-.alert-tip {
+blockquote:has(> pre > code[class*="alert-tip"]) {
     background-color: #d4edda;
     border-color: #155724;
     color: #155724;
 }
 
-.alert-tip::before {
+blockquote:has(> pre > code[class*="alert-tip"])::before {
     content: "✔ TIP";
 }
 
-.alert-note {
+blockquote:has(> pre > code[class*="alert-note"]) {
     background-color: #d1ecf1;
     border-color: #0c5460;
     color: #0c5460;
 }
 
-.alert-note::before {
+blockquote:has(> pre > code[class*="alert-note"])::before {
     content: "ⓘ NOTE";
 }

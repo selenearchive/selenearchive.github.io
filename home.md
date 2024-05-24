@@ -8,7 +8,8 @@ has_clips: yes
 # An organized collection of Selene Da Silva's clips
 <small>[⭣ Jump to clips ⭣](/#Clips)</small>
 
-> [!TIP]
+> ~~~alert-tip
+> ~~~
 > If you're new to this model of voice, it's a great idea to read [this in-depth explanatory guide](/guide) and listen to the clips linked below before continuing to the rest of the archive. The guide provides important context and will help you navigate this resource more efficiently.
 
 The main building blocks of the perceptual model are **size** and **weight**. These are the primary features of the voice that you'll modify, with the goal of altering the degree of *expressed androgenic development* of the voice.
@@ -30,5 +31,6 @@ Additionally, personality-expressing features also matter a lot for gendering vo
 
 More information on these topics can be found in their respective sections.
 
-> [!WARNING]
+> ~~~alert-warning
+> ~~~
 > Remember that you're not actually supposed to listen to every single clip in this archive. Aside from the essentials above, you're completely free in regards to the clips you choose. Go at your own pace and don't feel like you have to rush things or understand all the material immediately.

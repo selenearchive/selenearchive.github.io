@@ -18,18 +18,3 @@ function checkHashChanged() {
 
 window.addEventListener("hashchange", checkHashChanged);
 window.addEventListener("load", checkHashChanged);
-
-const blockquotes = Array.prototype.slice.call(document.getElementsByTagName("blockquote"));
-
-for (let blockquote of blockquotes) {
-    const p = blockquote.getElementsByTagName("p")[0];
-    const match = p.innerHTML.match(/\[!(?<type>.+)\]/)
-
-    if (match) {
-        const alert = document.createElement("div");
-        alert.classList.add("alert", "alert-" + match.groups.type.toLowerCase());
-        alert.innerHTML = blockquote.innerHTML.replace(match[0], "").trim();
-
-        blockquote.parentElement.replaceChild(alert, blockquote);
-    }
-}
