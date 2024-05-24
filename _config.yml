@@ -7,4 +7,3 @@ theme: null
 collections:
   topics:
     output: false
-    # permalink: /:collection/:name

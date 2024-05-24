@@ -1,5 +1,4 @@
 ---
-layout: topic
 title: Other
 yt: watch?v=_DcTl5MrOng&list=PLD2KCiQf0hA18vo1a9WtGdef3axN1gkYE&pp=iAQB
 ---

@@ -1,5 +1,4 @@
 ---
-layout: topic
 title: Fullness
 yt: watch?v=9lmFk7nMTmA&list=PLD2KCiQf0hA1AgrKteuABBEiFBkKM0rLS&pp=iAQB
 ---

@@ -1,5 +1,4 @@
 ---
-layout: topic
 title: Weight
 yt: watch?v=XWusipz8gJE&list=PLD2KCiQf0hA3NZn_iveFDoOMs2hNvdRIg&pp=iAQB
 ---

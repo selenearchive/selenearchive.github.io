@@ -1,5 +1,4 @@
 ---
-layout: topic
 title: Purity
 yt: watch?v=whviKusLIIs&list=PLD2KCiQf0hA2SqxqL-_uhIEUG6QvwuHg1&pp=iAQB
 ---

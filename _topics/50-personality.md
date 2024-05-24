@@ -1,5 +1,4 @@
 ---
-layout: topic
 title: Personality
 yt: watch?v=GbSyH69aPoQ&list=PLD2KCiQf0hA0XbfTWHnf1sEKIuzMoWqEo&pp=iAQB
 ---
