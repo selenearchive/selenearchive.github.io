@@ -9,24 +9,22 @@ title: Fullness
 
 The clips below cover theory and explorations across the range of fullness.
 
-<ul>
-    {% include clip.html name="Fullness" clyp_id="hu53kin0" %}
-    {% include clip.html name="size + weight" clyp_id="vzoe21sl" %}
-    {% include clip.html name="exaggerated size vs weight" clyp_id="ft5y3mwb" %}
-    {% include clip.html name="twang fullness clarification" clyp_id="dadjtpvs" %}
-    {% include clip.html name="lighter from overfull" clyp_id="m1ibeh2g" %}
-    {% include clip.html name="overfull underfull full" clyp_id="ykn0do1p" %}
-    {% include clip.html name="hollow to full and 4210k" clyp_id="r4t2qefp" %}
-    {% include clip.html name="twang" clyp_id="nv5mwfca" %}
-    {% include clip.html name="poopeater lol underfull -> full" clyp_id="g2u5rkn4" %}
-    {% include clip.html name="extreme opposite size/weight targets" clyp_id="ttvacsgs" %}
-    {% include clip.html name="identifying overfullness" clyp_id="n00jhnpl" %}
-    {% include clip.html name="Does falsetto sound fake?" clyp_id="eirbaqv4" %}
-    {% include clip.html name="falsetto is hollow often but not always!" clyp_id="y2qs1gdh" %}
-    {% include clip.html name="falsetto isn't bad" clyp_id="e2gxpm21" %}
-    {% include clip.html name="mechanisms are a meme" clyp_id="n4dohg2u" %}
-    {% include clip.html name="falsetto is a meme" clyp_id="2zg4pl5v" %}
-    {% include clip.html name="\"falsetto\"" clyp_id="qga4gj4m" %}
-    {% include clip.html name="u/happyfleece puberphonia demo" clyp_id="igoydna3" %}
-    {% include clip.html name="smaller + lighter target" clyp_id="nggatevq" %}
-</ul>
+* [Fullness](https://clyp.it/hu53kin0)
+* [size + weight](https://clyp.it/vzoe21sl)
+* [exaggerated size vs weight](https://clyp.it/ft5y3mwb)
+* [twang fullness clarification](https://clyp.it/dadjtpvs)
+* [lighter from overfull](https://clyp.it/m1ibeh2g)
+* [overfull underfull full](https://clyp.it/ykn0do1p)
+* [hollow to full and 4210k](https://clyp.it/r4t2qefp)
+* [twang](https://clyp.it/nv5mwfca)
+* [poopeater lol underfull -> full](https://clyp.it/g2u5rkn4)
+* [extreme opposite size/weight targets](https://clyp.it/ttvacsgs)
+* [identifying overfullness](https://clyp.it/n00jhnpl)
+* [Does falsetto sound fake?](https://clyp.it/eirbaqv4)
+* [falsetto is hollow often but not always!](https://clyp.it/y2qs1gdh)
+* [falsetto isn't bad](https://clyp.it/e2gxpm21)
+* [mechanisms are a meme](https://clyp.it/n4dohg2u)
+* [falsetto is a meme](https://clyp.it/2zg4pl5v)
+* ["falsetto"](https://clyp.it/qga4gj4m)
+* [u/happyfleece puberphonia demo](https://clyp.it/igoydna3)
+* [smaller + lighter target](https://clyp.it/nggatevq)
