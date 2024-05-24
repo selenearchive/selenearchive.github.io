@@ -7,9 +7,17 @@ layout: default
 {% for topic in site.topics %}
 <details class="topic" id="{{topic.title}}">
   <summary>{{ topic.title }}</summary>
+  <p>
+    <small><a href="{{ "https://www.youtube.com/" | append: topic.yt }}">YouTube Playlist</a></small>
+  </p>
   {{ topic.content }}
 </details>
 {% endfor %}
 
-{% include player.html %}
-<script src="{{ "/assets/js/home.js" | relative_url }}"></script>
+<div id="player" class="player-hidden">
+  <div id="player-controls">
+    <button id="player-closebtn">✕</button>
+  </div>
+  <div id="player-embed-container"> </div>
+</div>
+<script src="{{ "/assets/js/app.js" | relative_url }}"></script>
