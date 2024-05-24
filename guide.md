@@ -14,10 +14,8 @@ The goal of vocal training is to alter the degree of *expressed androgenic devel
 
 This will result in two basic combinations of **full** sounds: *heavy and large*, or *small and light*. You should now be expressing the degree of androgenic development you're aiming for. 
 
-> ~~~alert-note
-> ~~~
-> People seeking androgynous voices: early on, you will likely want to aim as far as possible in the direction of transition (or perhaps this is better stated as *away from your current default*) before settling on something more to your liking.
-
+{: .alert-note }
+People seeking androgynous voices: early on, you will likely want to aim as far as possible in the direction of transition (or perhaps this is better stated as *away from your current default*) before settling on something more to your liking.
 
 With the perceived androgenization of the voice resolved, we now look to major changes that impact our perception of a speaker's *performed gender*:
 
@@ -31,14 +29,15 @@ These are the features I consider to be absolutely core. Most people will achiev
 
 If you can do all of that without running into issues with efficiency, stability, connection, knödel (like Kermit the frog), or tongue obstruction (as exemplified by the characters Stitch or Elmo), then you've pretty much identified all the features of the voice that matter in any vocal endeavor.
 
-> ~~~alert-note
-> ~~~
-> A short formula expressing a typical **masculine** voice: 
+{: .alert-note }
+> A short formula expressing a typical **masculine** voice:
+> 
 > * heavy weight + moderate to low pitch, 
 > * larger size aiming for fullness, 
 > * duller pronunciation, with more angular pitch contour, higher degree of spacing, and more abrupt shifts in rhythm, that utilizes heavier weight for emphasis and stress.
 > 
 > A short formula expressing a typical **feminine** voice: 
+> 
 > * light weight + moderate to high pitch, 
 > * smaller size aiming for fullness, 
 > * sharper pronunciation, with more fluid pitch contour, a minimal degree of spacing or high degree of connection from one word to another, with gradual but large changes in rhythm utilizing elongation and increases in pitch for emphasis and stress.
