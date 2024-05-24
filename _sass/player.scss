@@ -12,7 +12,12 @@
 
 #player-controls {
     text-align: right;
-    padding: .5em;
+
+    position: absolute;
+    right: 0;
+
+    margin-top: -46px;
+    margin-right: 10px;
 
     button {
         width: 36px;
@@ -20,6 +25,34 @@
     }
 }
 
+.body-player-padding {
+    padding-bottom: 270px;
+}
+
 .player-hidden {
     display: none;
+}
+
+.clip {
+    text-decoration: none;
+}
+
+.clip button {
+    display: inline;
+    font-size: inherit;
+    font-family: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    color: inherit;
+
+    cursor: pointer;
+
+}
+
+.clip button::before {
+    content: "► ";
+}
+
+li > .clip button {
+    margin-bottom: .25em;
 }

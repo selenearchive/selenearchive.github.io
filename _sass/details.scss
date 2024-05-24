@@ -9,6 +9,14 @@ details {
     margin-bottom: .5em;
 }
 
-summary {
+details > summary {
+    list-style-type: "＋ ";
+    list-style-position: inside;
     font-weight: bold;
+    
+    cursor: pointer;
+}
+
+details[open] > summary {
+    list-style-type: "－ ";
 }
