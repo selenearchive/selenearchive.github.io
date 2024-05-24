@@ -2,8 +2,11 @@
 layout: default
 ---
 
+<section id="Introduction">
 {{ content }}
+</section>
 
+<section id="Clips">
 {% for topic in site.topics %}
 <details class="topic" id="{{topic.title}}">
   <summary>{{ topic.title }}</summary>
@@ -13,11 +16,4 @@ layout: default
   {{ topic.content }}
 </details>
 {% endfor %}
-
-<div id="player" class="player-hidden">
-  <div id="player-controls">
-    <button id="player-closebtn">✕</button>
-  </div>
-  <div id="player-embed-container"> </div>
-</div>
-<script src="{{ "/assets/js/app.js" | relative_url }}"></script>
+</section>
