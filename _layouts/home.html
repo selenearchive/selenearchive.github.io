@@ -7,6 +7,9 @@ layout: default
 {% for topic in site.topics %}
 <details class="topic" id="{{topic.title}}">
   <summary>{{ topic.title }}</summary>
+  <p>
+    <small><a href="{{ "https://www.youtube.com/" | append: topic.yt }}">YouTube Playlist</a></small>
+  </p>
   {{ topic.content }}
 </details>
 {% endfor %}

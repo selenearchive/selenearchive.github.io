@@ -1,9 +1,8 @@
 ---
 layout: topic
 title: Masculinization
+yt: watch?v=0PuwT5DeMAs&list=PLD2KCiQf0hA0Q49KYv2CY14Vct97M9LLg&pp=iAQB
 ---
-
-<small>[YouTube Playlist](https://www.youtube.com/watch?v=0PuwT5DeMAs&list=PLD2KCiQf0hA0Q49KYv2CY14Vct97M9LLg&pp=iAQB)</small>
 
 Lectures and explorations specifically focusing on masculinization.
 

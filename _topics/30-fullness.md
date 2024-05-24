@@ -1,9 +1,8 @@
 ---
 layout: topic
 title: Fullness
+yt: watch?v=9lmFk7nMTmA&list=PLD2KCiQf0hA1AgrKteuABBEiFBkKM0rLS&pp=iAQB
 ---
-
-<small>[YouTube Playlist](https://www.youtube.com/watch?v=9lmFk7nMTmA&list=PLD2KCiQf0hA1AgrKteuABBEiFBkKM0rLS&pp=iAQB)</small>
 
 'Fullness' is essentially the balance of size and weight; the closer they are to each other, the more typical and "full" the sound is. Large size and heavy weight go together, while small size and light weight go together. If the size and weight aren't in balance, one's voice may sound atypical and/or cartoony.
 

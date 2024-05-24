@@ -1,9 +1,8 @@
 ---
 layout: topic
 title: Personality
+yt: watch?v=GbSyH69aPoQ&list=PLD2KCiQf0hA0XbfTWHnf1sEKIuzMoWqEo&pp=iAQB
 ---
-
-<small>[YouTube Playlist](https://www.youtube.com/watch?v=GbSyH69aPoQ&list=PLD2KCiQf0hA0XbfTWHnf1sEKIuzMoWqEo&pp=iAQB)</small>
 
 Below are demonstrations on 'personality-expressing features', which are responsible for communicating one's gender expression (among other social traits) independently of their physiology. This is part of how you can get feminine male voices and masculine female voices; it's just a matter of tuning body feautures and personality features.  
 [This section was previously named Speech]

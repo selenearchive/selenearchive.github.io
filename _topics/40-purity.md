@@ -1,9 +1,8 @@
 ---
 layout: topic
 title: Purity
+yt: watch?v=whviKusLIIs&list=PLD2KCiQf0hA2SqxqL-_uhIEUG6QvwuHg1&pp=iAQB
 ---
-
-<small>[YouTube Playlist](https://www.youtube.com/watch?v=whviKusLIIs&list=PLD2KCiQf0hA2SqxqL-_uhIEUG6QvwuHg1&pp=iAQB)</small>
 
 'Purity' (or 'clarity', or 'efficiency') is an umbrella term for vocal qualities that tend to be atypical or undesirable (such as nasality, breathiness, constriction, and some others). The clips below mainly cover breathiness and constriction.
 

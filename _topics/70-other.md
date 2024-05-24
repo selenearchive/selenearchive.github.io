@@ -1,9 +1,8 @@
 ---
 layout: topic
 title: Other
+yt: watch?v=_DcTl5MrOng&list=PLD2KCiQf0hA18vo1a9WtGdef3axN1gkYE&pp=iAQB
 ---
-
-<small>[YouTube Playlist](https://www.youtube.com/watch?v=_DcTl5MrOng&list=PLD2KCiQf0hA18vo1a9WtGdef3axN1gkYE&pp=iAQB)</small>
 
 Useful clips that don't quite fit into any other category.
 

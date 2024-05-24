@@ -1,9 +1,8 @@
 ---
 layout: topic
 title: Size
+yt: watch?v=WrmWji6puCY&list=PLD2KCiQf0hA0PiFMdFOxhIkVgtvYabx8J&pp=iAQB
 ---
-
-<small>[YouTube Playlist](https://www.youtube.com/watch?v=WrmWji6puCY&list=PLD2KCiQf0hA0PiFMdFOxhIkVgtvYabx8J&pp=iAQB)</small>
 
 Ear training and general explorations for vocal size.
 

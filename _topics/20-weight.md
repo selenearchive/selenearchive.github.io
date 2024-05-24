@@ -1,9 +1,8 @@
 ---
 layout: topic
 title: Weight
+yt: watch?v=XWusipz8gJE&list=PLD2KCiQf0hA3NZn_iveFDoOMs2hNvdRIg&pp=iAQB
 ---
-
-<small>[YouTube Playlist](https://www.youtube.com/watch?v=XWusipz8gJE&list=PLD2KCiQf0hA3NZn_iveFDoOMs2hNvdRIg&pp=iAQB)</small>
 
 Vocal weight is separate from pitch, and it can be thought of as a spectrum of roughness and softness. Loudness is also correlated with weight, but it's possible (and quite useful) to be loud yet light (or low yet heavy).
 
