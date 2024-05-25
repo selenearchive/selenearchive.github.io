@@ -43,8 +43,8 @@
     font-style: inherit;
     text-decoration: none;
 
-    background-color: white;
-    border: 1px solid $border-color;
+    background-color: $button-bg-color;
+    border: 1px solid $body-border-color;
     border-radius: 5px;
 
     padding: 2px 10px;
@@ -53,12 +53,8 @@
 
 }
 
-.clip {
-    background-color: whitesmoke;
-}
-
 .clip:active {
-    background-color: gainsboro;
+    background-color: $active-bg-color;
 }
 
 .clip::before {

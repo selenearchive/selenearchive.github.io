@@ -1,7 +1,7 @@
 details {
     border: 1px solid $body-text-color;
-    color: $body-text-color;
-    background-color: gainsboro;
+    color: inherit;
+    background-color: $details-bg-color;
     border-radius: 0.5em;
     padding: 0.5em 1em;
     margin-bottom: 0.5em;
