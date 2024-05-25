@@ -1,36 +1,23 @@
-#player {
-    position: fixed;
-    width: 100%;
+#player-container{
+    position: sticky;
     bottom: 0;
-    left: 0;
-    right: 0;
-}
-
-#player-embed-container iframe {
-    margin-bottom: -10px;
-}
-
-#player-controls {
-    text-align: right;
-
-    position: absolute;
-    right: 0;
-
-    margin-top: -46px;
-    margin-right: 10px;
-
-    button {
-        width: 36px;
-        height: 36px;
-    }
-}
-
-.body-player-padding {
-    padding-bottom: 270px;
-}
-
-.player-hidden {
+    height: 30vh;
     display: none;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#player {
+    flex-grow: 1;
+    border: none;
+}
+
+#player-closebtn {
+    width: 2em;
+    height: 2em;
+    align-self: flex-end;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 .clip {
