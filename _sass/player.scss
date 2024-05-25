@@ -16,12 +16,15 @@
     border: none;
 }
 
-#player-closebtn {
-    width: 2em;
-    height: 2em;
+#player-controls {
     align-self: flex-end;
     margin-right: 0.5em;
     margin-bottom: 0.5em;
+
+    button {
+        width: 2.5em;
+        height: 2.5em;
+    }
 }
 
 .clip {

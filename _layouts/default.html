@@ -25,7 +25,9 @@
     </div>
     {% if page.has_clips %}
     <div id="player-container">
-      <button id="player-closebtn">✕</button>
+      <div id="player-controls">
+        <button id="player-closebtn">✕</button>
+      </div>
       <iframe id="player"> </iframe>
     </div>
     <script src="{{ "/assets/js/player.js" | relative_url }}"></script>
