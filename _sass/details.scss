@@ -1,22 +1,19 @@
 details {
     border: 1px solid $body-text-color;
-    color: $body-text-color;
-    background-color: gainsboro;
+    color: inherit;
+    background-color: $details-bg-color;
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    margin-bottom: 0.5em;
 
-    border-radius: 5px;
-    padding: .5em 1em;
+    summary {
+        list-style-type: "＋ ";
+        list-style-position: inside;
+        font-weight: bold;
+        cursor: pointer;
+    }
 
-    margin-bottom: .5em;
-}
-
-details > summary {
-    list-style-type: "＋ ";
-    list-style-position: inside;
-    font-weight: bold;
-    
-    cursor: pointer;
-}
-
-details[open] > summary {
-    list-style-type: "－ ";
+    &[open] summary {
+        list-style-type: "－ ";
+    }
 }

@@ -1,52 +1,48 @@
-[class*="alert"] {
+%alert {
     display: inline-block;
-
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 5px;
-
+    border: solid 1px;
+    border-radius: 0.2em;
     padding: 1em;
     padding-top: .5em;
     margin: .75em 0;
 
-    font-family: inherit;
-    font-size: inherit;
-}
-
-[class*="alert"]::before {
-    display: block;
-    font-weight: bolder;
-    margin: .5em 0;
-
-    font-size: .9em;
+    &::before {
+        display: block;
+        font-weight: bolder;
+        margin: .5em 0;
+        font-size: .9em;
+    }
 }
 
 .alert-warning {
-    background-color: #fff3cd;
-    border-color: #856404;
-    color: #856404;
-}
+    @extend %alert;
+    background-color: $warning-bg-color;
+    color: $warning-text-color;
+    border-color: $warning-text-color;
 
-.alert-warning::before {
-    content: "⚠ WARNING"
+    &::before {
+        content: "⚠ WARNING"
+    }
 }
 
 .alert-tip {
-    background-color: #d4edda;
-    border-color: #155724;
-    color: #155724;
-}
+    @extend %alert;
+    background-color: $tip-bg-color;
+    color: $tip-text-color;
+    border-color: $tip-text-color;
 
-.alert-tip::before {
-    content: "✔ TIP";
+    &::before {
+        content: "✔ TIP";
+    }
 }
 
 .alert-note {
-    background-color: #d1ecf1;
-    border-color: #0c5460;
-    color: #0c5460;
-}
+    @extend %alert;
+    background-color: $note-bg-color;
+    color: $note-text-color;
+    border-color: $note-text-color;
 
-.alert-note::before {
-    content: "ⓘ NOTE";
+    &::before {
+        content: "ⓘ NOTE";
+    }
 }

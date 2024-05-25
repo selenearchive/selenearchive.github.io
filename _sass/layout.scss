@@ -47,22 +47,15 @@ a {
     }
 }
 
-nav a {
-    color: inherit;
-    margin: 0 1em;
-}
-
-nav a:first-child {
-    margin-left: 0em;
-}
-
-nav a:last-child {
-    margin-right: 0em;
-}
-
 nav {
     font-size: 95%;
     padding-top: 1em;
+    display: flex;
+    gap: 1em;
+
+    a {
+        color: inherit;
+    }
 }
 
 footer {
@@ -72,5 +65,5 @@ footer {
     margin: 0.5em 0;
     padding: 0.5em 0;
     border-top: solid 1px;
-    border-color: $border-color;
+    border-color: $body-border-color;
 }
