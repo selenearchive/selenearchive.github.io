@@ -5,6 +5,10 @@
     display: none;
     flex-direction: column;
     justify-content: space-between;
+
+    @include mobile {
+        height: 40vh;
+    }
 }
 
 #player {
