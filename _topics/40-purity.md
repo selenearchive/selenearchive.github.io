@@ -22,7 +22,7 @@ yt: watch?v=whviKusLIIs&list=PLD2KCiQf0hA2SqxqL-_uhIEUG6QvwuHg1&pp=iAQB
 * [rasp on weight, size, or pitch change](https://clyp.it/btomh2ps)
 * [Oni efficiency lesson 6/22](https://clyp.it/l4tm20zc)
 
-Clips on nasality & *knodel* (think Kermit/Stitch/Meatwad for examples of knodel-ey voices):
+Clips on nasality & *knödel* (think Kermit/Meatwad for examples of knödel-ey voices):
 
 * [nasality intro](https://clyp.it/cjue5xsr)
 * [nasality exploration](https://clyp.it/5plhqyfr)
