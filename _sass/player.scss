@@ -23,9 +23,17 @@
     padding: 0;
     line-height: 0;
 
-    button {
-        width: 2.5em;
-        height: 2.5em;
+    @include desktop {
+        button {
+            width: 2.5em;
+            height: 2.5em;
+        }
+    }
+    @include mobile {
+        button {
+            width: 3.5em;
+            height: 3.5em;
+        }
     }
 }
 
