@@ -29,15 +29,16 @@ These are the features I consider to be absolutely core. Most people will achiev
 
 If you can do all of that without running into issues with efficiency, stability, connection, knödel (like Kermit the frog), or tongue obstruction (as exemplified by the characters Stitch or Elmo), then you've pretty much identified all the features of the voice that matter in any vocal endeavor.
 
-{: .alert-note }
-> A short formula expressing a typical **masculine** voice:
-> 
-> * heavy weight + moderate to low pitch, 
-> * larger size aiming for fullness, 
-> * duller pronunciation, with more angular pitch contour, higher degree of spacing, and more abrupt shifts in rhythm, that utilizes heavier weight for emphasis and stress.
-> 
-> A short formula expressing a typical **feminine** voice: 
-> 
-> * light weight + moderate to high pitch, 
-> * smaller size aiming for fullness, 
-> * sharper pronunciation, with more fluid pitch contour, a minimal degree of spacing or high degree of connection from one word to another, with gradual but large changes in rhythm utilizing elongation and increases in pitch for emphasis and stress.
+<div class="alert-note" markdown="1">
+A short formula expressing a typical **masculine** voice:
+
+* heavy weight + moderate to low pitch, 
+* larger size aiming for fullness, 
+* duller pronunciation, with more angular pitch contour, higher degree of spacing, and more abrupt shifts in rhythm, that utilizes heavier weight for emphasis and stress.
+
+A short formula expressing a typical **feminine** voice: 
+
+* light weight + moderate to high pitch, 
+* smaller size aiming for fullness, 
+* sharper pronunciation, with more fluid pitch contour, a minimal degree of spacing or high degree of connection from one word to another, with gradual but large changes in rhythm utilizing elongation and increases in pitch for emphasis and stress.
+</div>
