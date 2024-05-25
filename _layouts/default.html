@@ -9,25 +9,24 @@
   </head>
 
   <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/guide">Guide</a>
-      <a href="/about">About</a>
-    </nav>
-    <main id="content" role="main">
-      {{ content }}
-    </main>
-    <footer>
-      For suggestions, requests, and the like,
-      see the <a href="{{ site.github.repository_url }}">GitHub repository</a>.
-    </footer>
-
+    <div class="text-wrapper">
+      <nav>
+        <a href="/">Home</a>
+        <a href="/guide">Guide</a>
+        <a href="/about">About</a>
+      </nav>
+      <main id="content" role="main">
+        {{ content }}
+      </main>
+      <footer>
+        For suggestions, requests, and the like,
+        see the <a href="{{ site.github.repository_url }}">GitHub repository</a>.
+      </footer>
+    </div>
     {% if page.has_clips %}
-    <div id="player" class="player-hidden">
-      <div id="player-controls">
-        <button id="player-closebtn">✕</button>
-      </div>
-      <div id="player-embed-container"> </div>
+    <div id="player-container">
+      <button id="player-closebtn">✕</button>
+      <iframe id="player"> </iframe>
     </div>
     <script src="{{ "/assets/js/player.js" | relative_url }}"></script>
     {% endif %}

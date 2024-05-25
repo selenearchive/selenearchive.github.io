@@ -10,12 +10,21 @@
     }
 }
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-size: 16px;
     font-family: -apple-system, "Helvetica", "Helvetica Neue", sans-serif;
-    color: $body-text-color;
     background: $body-bg-color;
+    color: $body-text-color;
     line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.text-wrapper {
     padding-left: 1em;
     padding-right: 1em;
     margin: 0 auto;
