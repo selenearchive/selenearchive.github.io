@@ -10,6 +10,16 @@
     }
 }
 
+@mixin apply-theme($name) {
+    @each $property, $value in map-get($themes, $name) {
+        --#{$property}: #{$value};
+    }
+}
+
+:root {
+    @include apply-theme(default);
+}
+
 * {
     box-sizing: border-box;
 }
@@ -17,8 +27,8 @@
 body {
     font-size: 16px;
     font-family: -apple-system, "Helvetica", "Helvetica Neue", sans-serif;
-    background: $body-bg-color;
-    color: $body-text-color;
+    background: var(--body-bg-color);
+    color: var(--body-text-color);
     line-height: 1.5;
     margin: 0;
     padding: 0;
@@ -48,11 +58,11 @@ h1 {
 }
 
 a {
-    color: $body-link-color;
+    color: var(--body-link-color);
     text-decoration: none;
 
     &:hover {
-        color: $body-hover-color;
+        color: var(--body-hover-color);
     }
 }
 
@@ -74,5 +84,5 @@ footer {
     margin: 0.5em 0;
     padding: 0.5em 0;
     border-top: solid 1px;
-    border-color: $body-border-color;
+    border-color: var(--body-border-color);
 }
