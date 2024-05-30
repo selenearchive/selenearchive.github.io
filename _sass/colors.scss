@@ -25,4 +25,29 @@ $themes: (
         tip-border-color: #155724,
         note-border-color: #0c5460,
     ),
+    
+    dark: (
+        // Background
+        body-bg-color: #161616,
+        details-bg-color: #252525,
+        warning-bg-color: #38281e,
+        tip-bg-color: #222b26,
+        note-bg-color: #1d282e,
+        button-bg-color: #363636,
+        active-bg-color: #2e2e2e,
+
+        // Text
+        body-text-color: #e2e2e2,
+        body-link-color: #9b92ff,
+        body-hover-color: #aec754,
+        warning-text-color: #e2e2e2,
+        tip-text-color: #e2e2e2,
+        note-text-color: #e2e2e2,
+
+        // Borders
+        body-border-color: #000,//#adadad
+        warning-border-color: #d87620,
+        tip-border-color: #2d9964,
+        note-border-color: #2e7cd1,
+    )
 )

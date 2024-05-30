@@ -18,6 +18,10 @@
 
 :root {
     @include apply-theme(default);
+    
+    @media (prefers-color-scheme: dark) {
+        @include apply-theme(dark);
+    }
 }
 
 * {
