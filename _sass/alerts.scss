@@ -14,11 +14,19 @@
     }
 }
 
+@mixin alert-colors($type) {
+    background-color: var(--#{$type}-bg-color);
+    color: var(--#{$type}-text-color);
+    border-color: var(--#{$type}-border-color);
+
+    &::before {
+        color: var(--#{$type}-border-color);
+    }
+}
+
 .alert-warning {
     @extend %alert;
-    background-color: $warning-bg-color;
-    color: $warning-text-color;
-    border-color: $warning-text-color;
+    @include alert-colors(warning);
 
     &::before {
         content: "⚠ WARNING"
@@ -27,9 +35,7 @@
 
 .alert-tip {
     @extend %alert;
-    background-color: $tip-bg-color;
-    color: $tip-text-color;
-    border-color: $tip-text-color;
+    @include alert-colors(tip);
 
     &::before {
         content: "✔ TIP";
@@ -38,9 +44,7 @@
 
 .alert-note {
     @extend %alert;
-    background-color: $note-bg-color;
-    color: $note-text-color;
-    border-color: $note-text-color;
+    @include alert-colors(note);
 
     &::before {
         content: "ⓘ NOTE";

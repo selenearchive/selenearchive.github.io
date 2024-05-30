@@ -1,19 +1,28 @@
-// Background
-$body-bg-color: #eae8e5;
-$details-bg-color: #dcdcdc;
-$warning-bg-color: #fff3cd;
-$tip-bg-color: #d4edda;
-$note-bg-color: #d1ecf1;
-$button-bg-color: #f5f5f5;
-$active-bg-color: #dcdcdc;
+/* LIGHT MODE */
 
-// Text
-$body-text-color: #606c71;
-$body-link-color: #1e6bb8;
-$body-hover-color: #1a4977;
-$warning-text-color: #856404;
-$tip-text-color: #155724;
-$note-text-color: #0c5460;
+$themes: (
+    default: (
+        // Background
+        body-bg-color: #eae8e5,
+        details-bg-color: #dcdcdc,
+        warning-bg-color: #fff3cd,
+        tip-bg-color: #d4edda,
+        note-bg-color: #d1ecf1,
+        button-bg-color: #f5f5f5,
+        active-bg-color: #dcdcdc,
 
-// Borders
-$body-border-color: #494949;
+        // Text
+        body-text-color: #606c71,
+        body-link-color: #1e6bb8,
+        body-hover-color: #1a4977,
+        warning-text-color: #856404,
+        tip-text-color: #155724,
+        note-text-color: #0c5460,
+
+        // Borders
+        body-border-color: #494949,
+        warning-border-color: #856404,
+        tip-border-color: #155724,
+        note-border-color: #0c5460,
+    ),
+)
